@@ -31,4 +31,4 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
   }
  });
 
-client.login('NTEwOTAwNTA2MTU2MzM1MTIx.DsjKeA.vhVUu40kyE4Bt2eQJqb61kIAc_4');
+client.login('NTEwOTA2MjQ5Nzg1NjM4OTE0.DsjN0g.6EGw5jYW_3yicbEYqMRTT5urDSU');
